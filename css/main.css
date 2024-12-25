@@ -117,6 +117,9 @@ form input{
     width: 100%;
   }
   
+  input{
+    outline: none;
+  }
 
 /* #car-form{
   position: relative;
