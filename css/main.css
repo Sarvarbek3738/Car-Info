@@ -109,9 +109,14 @@ form input{
     color: #878787;
   }
 
-.natija{
-  display: none;
-}
+  .allCards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    padding: 50px;
+    width: 100%;
+  }
+  
 
 /* #car-form{
   position: relative;
